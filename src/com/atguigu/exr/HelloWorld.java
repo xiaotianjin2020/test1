@@ -7,6 +7,7 @@ package com.atguigu.exr;
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("HelloWOld");
+        System.out.println("nihao11");
 
     }
 
