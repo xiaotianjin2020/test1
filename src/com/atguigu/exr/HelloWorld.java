@@ -11,6 +11,7 @@ public class HelloWorld {
         System.out.println("nihao11");
         System.out.println("7777");
         System.out.println("999999");
+        System.out.println("1111111");
     }
 
 
