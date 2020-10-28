@@ -12,6 +12,7 @@ public class HelloWorld {
         System.out.println("7777");
         System.out.println("999999");
         System.out.println("1111111");
+        System.out.println("999");
     }
 
 
